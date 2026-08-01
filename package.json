@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.14.0",
+        "laravel-vite-plugin": "^3.0.1",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "vite": "^8.0.7"
+    },
+    "dependencies": {
+        "bootstrap": "^5.0.2",
+        "bootstrap-icons": "^1.13.1",
+        "chart.js": "^4.4.0",
+        "flatpickr": "^4.6.13"
+    }
+}
